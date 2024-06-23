@@ -3,7 +3,8 @@
 Voici mon projet de jeu éducatif en 2D.
 
 ## Démo
-<iframe src="https://appetize.io/app/jlsxryy2ecksy6gu5dbpelk3eq?device=pixel7&osVersion=13.0&orientation=landscape" width="375px" height="667px" frameborder="0" scrolling="no"></iframe>
+[![Run on Appetize](https://appetize.io/app/jlsxryy2ecksy6gu5dbpelk3eq?device=pixel7&osVersion=13.0&orientation=landscape)
+
 
 
 ## Fonctionnalités
